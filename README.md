@@ -26,5 +26,11 @@ If you already have done this step on an Arduino, for example, then feel free to
 None of this is difficult, although I threw in a **sprintf** just to keep you on your toes. If you hate it just revert to using multiple **Serial.print** style statements! Byt learning about **sprintf** will make you a better C++ coder, as well as taking years off you and making you rich too! OK, I lied about the last two points.
 
 ### Fakes? Clones?
-Frankly, it's almost impossible to tell easily. <img src="/images/nRF24L01+LargePic.png" width="25%"> Even we zoom in on the nRF24 chip itself it's no guarantee that it's genuine <img src="/images/IMG_20190813_140651.jpg" wdith="25%"> so best just try what you have. If you absolutely need genuine parts then you will have to contact the (larger) reseller to get confirmation.
+Frankly, it's almost impossible to tell easily.  
+<img src="/images/nRF24L01+LargePic.png" width="25%">  
+Even we zoom in on the nRF24 chip itself it's no guarantee that it's genuine <img src="/images/IMG_20190813_140651.jpg" width="25%" align="right"> so best just try what you have. If you absolutely need genuine parts then you will have to contact the (larger) reseller to get confirmation.  
+
+I've found these little devices to be very good (apart from the one that stopped working today, suddenly whilst it was just sat on my workbench). As a simple device to send messages from a greenhouse, water tower, out house or similar they must be the simplest way to do it.
+
+Just in case you need a really long range, I've included a link to one with an aerial from Banggood. Who knows, perhaps it's even genuine Nordic!
 
