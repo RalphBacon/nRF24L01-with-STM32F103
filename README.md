@@ -15,5 +15,5 @@ They look like this and cost very little indeed. Buy a pack of 5 (you will need 
 Not only do they solve the whole issue of power, they make the wiring up so much easier as you do it from the top like on an Arduino board.
 
 As I said in my video, use **the same colour** DuPont cables as me so you can be absolutely sure that your wiring is correct. I've included a few close up photos to help you, like this:  
-<img src="/images/IMG_20190813_135700.jpg" width="25%">  
+<img src="/images/IMG_20190813_135700.jpg" width="35%">  
 All the photos are in the images folder in the GitHub. Some are quite large (I've reduced them on the Readme page) but it allows you to really "zoom in" to get all the details!  
