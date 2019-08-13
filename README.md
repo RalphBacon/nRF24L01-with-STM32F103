@@ -32,5 +32,6 @@ Even we zoom in on the nRF24 chip itself it's no guarantee that it's genuine <im
 
 I've found these little devices to be very good (apart from the one that stopped working today, suddenly whilst it was just sat on my workbench). As a simple device to send messages from a greenhouse, water tower, out house or similar they must be the simplest way to do it.
 
-Just in case you need a really long range, I've included a link to one with an aerial from Banggood. Who knows, perhaps it's even genuine Nordic!
+Just in case you need a really long range, I've included a link to one with an aerial from Banggood. Who knows, perhaps it's even genuine Nordic!  
+<img src="/images/LongRangeVersion.JPG">
 
