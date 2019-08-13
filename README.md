@@ -33,7 +33,7 @@ Even we zoom in on the nRF24 chip itself it's no guarantee that it's genuine <im
 I've found these little devices to be very good (apart from the one that stopped working today, suddenly, whilst it was just sat on my workbench). As a simple device to send messages from a greenhouse, water tower, out house or similar they must be the simplest way to do it.
 
 Just in case you need a really long range of 1km, I've included a link to one with an aerial from Banggood. Who knows, perhaps it's even genuine Nordic!  
-<img src="/images/LongRangeVersion.JPG" width="20%">
+<img src="/images/LongRangeVersion.JPG" width="25%">  
 ```
 Connections (use the same colour Dupont cables as me)    
  NRF24L01     Arduino_ Uno  Blue_Pill(stm32f01C)  
@@ -61,14 +61,14 @@ Crazepony-UK 10PCS Arduino NRF24L01+ 2.4GHz Wireless RF Transceiver Module New Â
 https://amzn.to/2KNL6u2
 
 5Pcs NRF24L01+ SI24R1 2.4G Wireless Power Enhanced Communication Receiver Module $5.56  
-https://www.banggood.com/5Pcs-NRF24L01-SI24R1-2_4G-Wireless-Power-Enhanced-Communication-Receiver-Module-p-1059601.html
+https://www.banggood.com/5Pcs-NRF24L01-SI24R1-2_4G-Wireless-Power-Enhanced-Communication-Receiver-Module-p-1059601.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 Enhanced high power version 1,100 meter range  
-https://uk.banggood.com/1100-Meter-Long-Distance-NRF24L01PALNA-Wireless-Module-With-Antenna-p-1057170.html
+https://uk.banggood.com/1100-Meter-Long-Distance-NRF24L01PALNA-Wireless-Module-With-Antenna-p-1057170.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 Adapter boards, 5 pcs  
 5Pcs Socket Adapter Module Board For 8 Pin NRF24L01+ Wireless Transceiver  
-https://www.banggood.com/5Pcs-Socket-Adapter-Module-Board-For-8-Pin-NRF24L01-Wireless-Transceiver-p-1026348.html
+https://www.banggood.com/5Pcs-Socket-Adapter-Module-Board-For-8-Pin-NRF24L01-Wireless-Transceiver-p-1026348.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
 Adapter Plates from Amazon  
 https://amzn.to/31B6EAR
